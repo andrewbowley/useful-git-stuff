@@ -16,3 +16,6 @@
 ## Markdown
 * [Markdown Basics](https://help.github.com/articles/markdown-basics/)
 * [GitHub Flavoured Markdown](https://help.github.com/articles/github-flavored-markdown/)
+
+## How to use Git
+* [Git: The Safety Net for Your Projects](http://alistapart.com/article/git-the-safety-net-for-your-projects)
