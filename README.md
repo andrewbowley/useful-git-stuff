@@ -1,5 +1,15 @@
 # Useful Git Stuff
 
+## Table of Contents
+* [How Git works](#how-git-works)
+* [Clients](#clients)
+  * [Mac](#mac)
+  * [Windows](#windows)
+* [Markdown](#markdown)
+* [Tutorials](#tutorials)
+* [How to use Git](#how-to-use-git)
+* [Deployment](#deployment)
+
 ## How Git works
 * [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
 
