@@ -17,6 +17,9 @@
 * [Markdown Basics](https://help.github.com/articles/markdown-basics/)
 * [GitHub Flavoured Markdown](https://help.github.com/articles/github-flavored-markdown/)
 
+## Tutorials
+* [Learn Version Control with Git](http://www.git-tower.com/learn/)
+
 ## How to use Git
 * [Git: The Safety Net for Your Projects](http://alistapart.com/article/git-the-safety-net-for-your-projects)
 * [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
