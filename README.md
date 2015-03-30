@@ -1,5 +1,7 @@
 # Useful Git Stuff
 
+Just a list of Git related things that I find useful. Such as tools, guides, software, articles etc.
+
 ## Table of Contents
 * [How Git works](#how-git-works)
 * [Clients](#clients)
