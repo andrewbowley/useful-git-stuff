@@ -31,6 +31,7 @@ Just a list of Git related things that I find useful. Such as tools, guides, sof
 
 ## Tutorials
 * [Learn Version Control with Git](http://www.git-tower.com/learn/)
+* [Git - The simple guide](http://rogerdudler.github.io/git-guide/)
 
 ## How to use Git
 * [Git: The Safety Net for Your Projects](http://alistapart.com/article/git-the-safety-net-for-your-projects)
